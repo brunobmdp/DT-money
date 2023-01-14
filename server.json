@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-13T17:22:40.446Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2023-01-13T17:10:40.446Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1700,
+      "createdAt": "2023-01-13T17:50:40.446Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2023-01-13T20:47:36.692Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 10,
+      "createdAt": "2023-01-13T20:53:11.396Z",
+      "id": 5
+    },
+    {
+      "description": "Cachorro Quente",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 4,
+      "createdAt": "2023-01-13T21:17:25.380Z",
+      "id": 6
+    }
+  ]
+}
